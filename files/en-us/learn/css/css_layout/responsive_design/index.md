@@ -6,7 +6,7 @@ page-type: learn-module-chapter
 
 {{learnsidebar}}{{PreviousMenuNext("Learn/CSS/CSS_layout/Multiple-column_Layout", "Learn/CSS/CSS_layout/Media_queries", "Learn/CSS/CSS_layout")}}
 
-_Responsive web design_ (RWD) is a web design approach to make web pages render well on all screen sizes and resolutions while ensuring good usability. It is the way to design for a multi-device web. In this article, we'll help you understand some techniques that can be used to master it.
+_Responsive web design_ (RWD) is a web design approach to make web pages render well on all screen sizes and resolutions while ensuring good usability. It is the way to design for a multi-device web. In this article, we'll help you understand some techniques that can be used to master it. Adopt the philosophy of progressive enhancement, which involves starting with a solid foundation of HTML and CSS that works on all devices and then adding more advanced features for larger screens. This ensures that even users with older or less capable devices can access your content.
 
 <table>
   <tbody>
